@@ -1,2 +1,3 @@
 # Melhores atletas
-<nome>
+MAGIC JHONSON 
+
