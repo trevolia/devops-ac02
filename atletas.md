@@ -1,2 +1,2 @@
 # Melhores atletas
-<nome>
+George Saint-Pierre
