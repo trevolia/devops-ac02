@@ -1,8 +1,6 @@
 # Melhores atletas
-
-David Beckham
-
+Ronaldinho 
+<Kobe Bryant>
 Kobe Bryant
-
 MAGIC JHONSON
-
+David Beckham
